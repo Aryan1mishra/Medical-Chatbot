@@ -24,18 +24,23 @@ An AI-powered Medical Question Answering Chatbot built using Large Language Mode
 User Query
 
    ↓
+   
 Embedding Model
 
    ↓
+   
 Vector Store (FAISS / Chroma)
 
    ↓
+   
 Retriever
 
    ↓
+   
 LLM (via LangChain)
 
    ↓
+   
 Final Response
 
 ---------------------------------------------
